@@ -1,6 +1,10 @@
 # Tortoise-tts-fast-longer
 Fork of RogerDeng/tortoise-tts-fast but now can support unlimited length. For Google Colab.
 
+Check out the original. Forked from:
+
+https://github.com/RogerDeng/tortoise-tts-fast
+
 # License: Do No HARM AI
 
 This License means the software is free to use and edit, HOWEVER, you are not allowed by law to do the following things:
