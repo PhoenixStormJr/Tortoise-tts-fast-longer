@@ -1,2 +1,11 @@
 # Tortoise-tts-fast-longer
 Fork of RogerDeng/tortoise-tts-fast but now can support unlimited length. For Google Colab.
+
+# License: Do No HARM AI
+
+This License means the software is free to use and edit, HOWEVER, you are not allowed by law to do the following things:
+1. YOU MAY NOT: Use this deep fake software for A.I. scams.
+2. YOU MAY NOT: Purposely lie, and make it seem like someone said something they did not say. It must be obvious the content created with Tortoise-tts is fake. You can use this for entertainment, dubbing, or anything that makes it obvious that it's A.I. generated.
+3. YOU MAY NOT: Use this software for ANY OTHER EVIL INTENTIONS! Evil meaning harmful to society.
+
+This license is not long, and easy to follow, and understand. Please follow it. Just do no harm. It's just the 1st law of robotics.
