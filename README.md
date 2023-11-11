@@ -9,3 +9,10 @@ This License means the software is free to use and edit, HOWEVER, you are not al
 3. YOU MAY NOT: Use this software for ANY OTHER EVIL INTENTIONS! Evil meaning harmful to society.
 
 This license is not long, and easy to follow, and understand. Please follow it. Just do no harm. It's just the 1st law of robotics.
+
+# Use software
+Click this link:
+
+https://colab.research.google.com/github/PhoenixStormJr/Tortoise-tts-fast-longer/blob/main/tortoise_tts_faster_longer.ipynb
+
+I use this mainly for RVC, when I don't have much audio, this can generate extra.
