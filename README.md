@@ -5,6 +5,15 @@ Check out the original. Forked from:
 
 https://github.com/RogerDeng/tortoise-tts-fast
 
+Here's an example audio, I hope you like the improvement!
+
+Roll (Megaman EXE) WITHOUT SplitSentences:
+
+https://github.com/PhoenixStormJr/Tortoise-tts-fast-longer/assets/66498788/9909255e-84c4-4266-9fc2-4f6008f34314
+
+
+
+
 # License: Do No HARM AI
 
 This License means the software is free to use and edit, HOWEVER, you are not allowed by law to do the following things:
