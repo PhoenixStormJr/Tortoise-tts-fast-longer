@@ -11,6 +11,9 @@ Roll (Megaman EXE) WITHOUT SplitSentences:
 
 https://github.com/PhoenixStormJr/Tortoise-tts-fast-longer/assets/66498788/9909255e-84c4-4266-9fc2-4f6008f34314
 
+Roll (Megaman EXE) WITH SplitSentences:
+
+https://github.com/PhoenixStormJr/Tortoise-tts-fast-longer/assets/66498788/4ab1bd85-e0f0-46db-8b35-96ab29db8d32
 
 
 
