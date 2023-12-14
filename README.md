@@ -32,3 +32,6 @@ Click this link:
 https://colab.research.google.com/github/PhoenixStormJr/Tortoise-tts-fast-longer/blob/main/tortoise_tts_faster_longer.ipynb
 
 I use this mainly for RVC, when I don't have much audio, this can generate extra.
+
+# Future
+Currently, Tortoise requires the audio you upload to be in 6-10 second segments. However, I am working on an update to the colab notebook which will fix that, and allow you to upload any length of audio, rather than individual files. This will be an experimental feature, and I currently don't plan on making it the main program. Meaning I will eventually upload a separate notebook, with the update. I really enjoy using this software, so I hope I can improve it even more. :)
