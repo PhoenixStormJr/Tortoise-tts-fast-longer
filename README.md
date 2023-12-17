@@ -29,7 +29,7 @@ This license is not long, and easy to follow, and understand. Please follow it. 
 # Use software
 Alpha Update:
 
-This update allows you to upload any length of audio files, as long as it's over 12 seconds. No splitting necessary anymore! But it may be glitchy, please test it and report any errors. :)
+This update allows you to upload any length of audio files, as long as it's over 12 seconds. No splitting necessary anymore! But it may be glitchy, please test it and report any errors here: https://github.com/PhoenixStormJr/Tortoise-tts-fast-longer/issues. :)
 
 https://colab.research.google.com/github/PhoenixStormJr/Tortoise-tts-fast-longer/blob/main/tortoise_tts_faster_longer_alpha_update.ipynb
 
