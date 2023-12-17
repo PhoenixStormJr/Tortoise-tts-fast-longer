@@ -27,6 +27,14 @@ This License means the software is free to use and edit, HOWEVER, you are not al
 This license is not long, and easy to follow, and understand. Please follow it. Just do no harm. It's just the 1st law of robotics.
 
 # Use software
+Alpha Update:
+
+This update allows you to upload any length of audio files, as long as it's over 12 seconds. No splitting necessary anymore! But it may be glitchy, please test it and report any errors. :)
+
+https://colab.research.google.com/github/PhoenixStormJr/Tortoise-tts-fast-longer/blob/main/tortoise_tts_faster_longer_alpha_update.ipynb
+
+However, the old version works just fine. Here it is.
+
 Click this link:
 
 https://colab.research.google.com/github/PhoenixStormJr/Tortoise-tts-fast-longer/blob/main/tortoise_tts_faster_longer.ipynb
@@ -34,4 +42,4 @@ https://colab.research.google.com/github/PhoenixStormJr/Tortoise-tts-fast-longer
 I use this mainly for RVC, when I don't have much audio, this can generate extra.
 
 # Future
-Currently, Tortoise requires the audio you upload to be in 6-10 second segments. However, I am working on an update to the colab notebook which will fix that, and allow you to upload any length of audio, rather than individual files. This will be an experimental feature, and I currently don't plan on making it the main program. Meaning I will eventually upload a separate notebook, with the update. I really enjoy using this software, so I hope I can improve it even more. :)
+I'm going to test the alpha version. Then I will also add an option to record your own voice.
