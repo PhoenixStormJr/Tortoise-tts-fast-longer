@@ -1,5 +1,5 @@
 # Tortoise-tts-fast-longer
-Fork of RogerDeng/tortoise-tts-fast but now can support unlimited length. For Google Colab.
+Fork of [manmay-nakhashi/tortoise-tts-fastest](https://github.com/manmay-nakhashi/tortoise-tts-fastest) but now can support unlimited length. For Google Colab.
 
 Check out the original. Forked from:
 
